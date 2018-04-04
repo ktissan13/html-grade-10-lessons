@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>All about Tissan Kugathas</title>
+</head>
+
+<body>
+<center>
+<h1 title="All about Tissan Kugathas">All about Tissan Kugathas</h1>
+</center>
+<p><img src="http://cdn.bmwblog.com/wp-content/uploads/2017/02/Beautiful-Sakhir-Orange-BMW-M3-Build-14.jpg" width="340" align="right" height="227" title="My dream car!" /></p>
+<h1 title="Welcome!">Welcome!</h1>
+<h4>My name is Tissan Kugathas and welcome to my all about me page. In this page, I will be talking about all about my life and interests.</h4>
+<h1 title="Where am I from?">Where am I from?</h1>
+<h4>I am born in Toronto, Ontario and lived in Toronto until I moved to Brampton when I was four years old. I am currently still living in Brampton, and I go to school in Brampton called Castlebrooke Secondary School.</h4>
+<h1 title="More about me!">More about Me!</h1>
+<h4>I am a&nbsp;creative and responsible person. I like to do things right before the deadline. I love playing cricket, badminton, basketball, and video games. I am part of the Castlebrooke's Robotics Team. My job in the team is to program, build, design, and drive the robot. My favourite artist is Ski Mask the Slump God and my favourite shows are Initial D and Dragonball.</h4>
+<h1 title="My Family!">My Family!</h1>
+<h4>My parents are still alive, and they are currently working. My mom is a chemist at Apotex, and my dad is an accountant at Jeld Wen Windows and Doors. I also have one sister who is nine years old and currently in Grade 4.</h4>
+<h1 title="Write me!">Write me!</h1>
+<h4>I am active on Instagram, and my username is @ktissan. You can also contact me by email ktissan@aol.com.</h4>
+
+</body>
+</html>

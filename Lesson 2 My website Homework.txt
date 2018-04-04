@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+    border-collapse: collapse;
+}
+</style>
+<title>My Website!</title>
+
+</head>
+<body <------bgcolor="#4B0082">
+
+<table width="100%" style="background-color: #f0ffff; margin-left: auto; margin-right: auto;" height="402">
+<tbody>
+<tr style="height: 81px;">
+<th style="height: 81px; width: 95%; background-color: #00008b;" colspan="2">
+<h1><img src="https://cdn.pixabay.com/photo/2016/08/15/18/18/bmw-1596080_960_720.png" title="BMW Logo" width="53" height="53" /><span style="color: #ffffff;">My Website!</span></h1>
+</th>
+</tr>
+<tr style="height: 40px;">
+<td style="height: 40px; width: 22.3475%;"><a href="https://www.google.ca/"> Home</a></td>
+<td style="height: 40px; width: 72.6525%; text-align: left;" rowspan="6">
+<h2>Why Buy BMW over Lexus and Mercedes-Benz</h2>
+<p>When it comes time to search for a luxury vehicle, there are generally three big name brands that people consider: BMW, Lexus, and Mercedes-Benz. While each of these brands has built up a reputation over the years due to its high-quality vehicles and industry-leading features, BMW still manages to stand ahead of the others. There are plenty of reasons drivers choose to go with a BMW as opposed to a Lexus or Mercedes-Benz, and while sometimes these reasons can be as simple as brand loyalty, there are frequently other factors at play as well. After all, BMW had to do several things in order to gain its loyal fan base and to continue to draw in former Lexus and Mercedes-Benz owners.</p>
+<h2>Product Geniuses</h2>
+<p>Car dealerships and manufacturers are notorious for doing anything they can to sell their products. Earlier in 2014, BMW started introducing experts known as BMW geniuses who are on staff at the dealership but without the goal of selling a particular product. Instead, these staff members have one goal in mind: educating potential customers so they will fully understand each of the vehicles that meet their needs and are better able to make an educated decision.</p>
+<p>The announcement of the geniuses being added to the BMW staff drew in many new buyers for multiple different reasons. This position shows the brand&rsquo;s desire for all of its drivers to be fully informed, so they know exactly what they are purchasing and will have no regrets. Instead of focusing on making the sale, BMW chose to focus on having clients be happy with their decision. The other reason clients enjoy the new role of BMW genius is that it shows the brand&rsquo;s commitment to customer service. As the goal is customer satisfaction, the role is clearly all about serving customers and making them feel appreciated. Not all luxury manufacturers take the time to ensure their service is this well-rounded, and at the moment, neither Lexus nor Mercedes-Benz have similar third-party experts on hand at their dealerships.</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 22.3475%;"><a href="https://www.cnn.com/"> About</a></td>
+</tr>
+<tr style="height: 37px;">
+<td style="height: 37px; width: 22.3475%;"><a href="https://www.aljazeera.com/"> Interesting Things</a></td>
+</tr>
+<tr style="height: 39px;">
+<td style="height: 39px; width: 22.3475%;"><a href="http://easierthanyouthink.ca/index_student.asp"> Boring Things</a></td>
+</tr>
+<tr style="height: 37px;">
+<td style="height: 37px; width: 22.3475%;"><a href="https://www.rt.com"> Contact</a></td>
+</tr>
+<tr style="height: 37px;">
+<td style="height: 37px; width: 22.3475%;">
+<h2>Leading Innovations</h2>
+<p>One of the biggest reasons that drivers tend to pick BMWs is its long history of innovation. In fact, BMW does its best to always push the envelope by constantly innovating. The company&rsquo;s goal is to create the best possible vehicle, and it is clear when you look at any of its products. One classic example would be BMW&rsquo;s switch from the traditional naturally aspirated engine to the turbocharged engines as a means of giving drivers more power without compromising fuel efficiency.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

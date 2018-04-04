@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First Lesson</title>
+
+</head>
+<body>
+
+<center> <h1> I love &nbsp Dora! </h1> </center>
+
+<center> <h1> "This is my car!" title="This is my car! </h1> </center>
+
+<center><img src=""http://www.easierthanyouthink.ca/htmlimagespng/car.png" title="I love Dora!'></center>
+
+<p> aasdjkfhasjkdfhajksdf asjkdfhalskdjfh
+sadfasdf<br>
+asdfasdfasdf<br>
+asdfasdfasd<br>
+fasdfasdfsadfas<br>
+dfasdfasdf<br>
+</p>
+
+<h2> I love Boots! </h2>
+<h3> I love Diego! </h3>
+<h4> I love Map! </h4>
+<h5> I love Swipper! </h5>
+<h6> I love Jaguar !</h6>
+
+</body>
+</html>

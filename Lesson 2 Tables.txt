@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Table Lesson </title>
+
+</head>
+<body>
+<table width="100%" border="2">
+ <tr>
+        <th>Column 1</th> 
+        <th>Column 2</th>
+        <th>Column 3</th>
+</tr>
+
+ <tr>
+       <td><a href="http://www.google.ca"> Google</a></td>
+       <td><a href="https://www.youtube.com/">Youtube</a></td>
+       <td><a href="http://easierthanyouthink.ca/index_student.asp">Easierthanyouthink</a></td>
+  </tr>
+  <tr>
+       <td><a href="https://www.bmw.ca/en/home.html"><img src="https://auto.ndtvimg.com/car-images/medium/mercedes-amg/gla-45/mercedes-amg-gla-45.jpg?v=3" 
+           width"50"</a></td>
+       <td><h2>Jackson</h2></td>
+       <td>94</td>
+  </tr>
+
+
+
+</table>
+</body>
+</html>
+
